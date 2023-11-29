@@ -1,0 +1,2 @@
+# proiectGenTech
+Proiect Generatia Tech
